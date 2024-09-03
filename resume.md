@@ -2,7 +2,7 @@
 ##### Student at Appalachian State University 
 ###### brittondl@appstate.edu 
 ###### [Linkedin](www.linkedin.com/in/dezirae-britton-4b283b1bb) 
-<img src="/img/Appalachian_State_University_logo.png">
+<img src="img/Appalachian_State_University_logo.png">
 
 #### Sustainable Development  
 ##### Concentration: Environmental Sciences and Geograpghy 
