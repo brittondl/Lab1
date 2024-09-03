@@ -1,9 +1,10 @@
 # Dezirae Britton
 ##### Student at Appalachian State University 
 ###### brittondl@appstate.edu 
-###### [Linkedin](www.linkedin.com/in/dezirae-britton-4b283b1bb) 
+###### [Linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) 
 <img src="img/Appalachian_State_University_logo.png">
 
+### Education 
 #### Sustainable Development  
 ##### Concentration: Environmental Sciences and Geograpghy 
 ##### Objective
